@@ -1,3 +1,5 @@
+NAME M.DOLATEJASWI
+IDAP25110090161
 #include <stdio.h>
 int main() {
     int id[10], qty[10];
@@ -80,4 +82,5 @@ int main() {
         }
     } while (choice != 5);
     return 0;
+
 }
