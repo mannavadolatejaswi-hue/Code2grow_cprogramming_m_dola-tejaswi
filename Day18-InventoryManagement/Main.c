@@ -1,4 +1,6 @@
-include <stdio.h>
+NAME M.DOLATEJASWI
+IDAP25110090161
+#include <stdio.h>
 int main() {
     int id[10], qty[10];
     float price[10];
