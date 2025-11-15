@@ -1,1 +1,2 @@
-
+NAME M.DOLATEJASWI   ID AP25110090161
+I first collected the input from the user using 2D arrays — one array for attendance and another for marks. Then I used nested loops to calculate totals, averages, number of presents, and absences for each student. A loop with a switch-case was used to display different reports such as attendance, performance, and grade report based on the user’s choice. The program continues to show the menu until the user selects the Here is a simple and short “Approach Explanation” you can directly use in your assignment.
