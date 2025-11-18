@@ -1,1 +1,123 @@
+===== SMART WAREHOUSE MENU =====
+1. Add Product
+2. Search Product (By ID)
+3. Update Quantity
+4. Generate Rack Report (2D Array)
+5. Calculate Stock Value
+6. Display All Products
+7. Exit
+Enter choice: 1
+Enter Product ID: 555
+Enter Quantity: 20
+Enter Price: 20
+Product added successfully!
 
+===== SMART WAREHOUSE MENU =====
+1. Add Product
+2. Search Product (By ID)
+3. Update Quantity
+4. Generate Rack Report (2D Array)
+5. Calculate Stock Value
+6. Display All Products
+7. Exit
+Enter choice: 1
+Enter Product ID: 333
+Enter Quantity: 30
+Enter Price: 30
+Product added successfully!
+
+===== SMART WAREHOUSE MENU =====
+1. Add Product
+2. Search Product (By ID)
+3. Update Quantity
+4. Generate Rack Report (2D Array)
+5. Calculate Stock Value
+6. Display All Products
+7. Exit
+Enter choice: 2
+Enter Product ID to search: 55
+Not Found!
+
+===== SMART WAREHOUSE MENU =====
+1. Add Product
+2. Search Product (By ID)
+3. Update Quantity
+4. Generate Rack Report (2D Array)
+5. Calculate Stock Value
+6. Display All Products
+7. Exit
+Enter choice: 2
+Enter Product ID to search: 555
+Product Found!
+ID: 555  Quantity: 20  Price: 20
+
+===== SMART WAREHOUSE MENU =====
+1. Add Product
+2. Search Product (By ID)
+3. Update Quantity
+4. Generate Rack Report (2D Array)
+5. Calculate Stock Value
+6. Display All Products
+7. Exit
+Enter choice: 3
+Enter Product ID: 555
+1. Increase stock
+2. Decrease stock
+1
+Enter amount: 30
+Updated quantity: 50
+
+===== SMART WAREHOUSE MENU =====
+1. Add Product
+2. Search Product (By ID)
+3. Update Quantity
+4. Generate Rack Report (2D Array)
+5. Calculate Stock Value
+6. Display All Products
+7. Exit
+Enter choice: 4
+
+Rack Report:
+Max Stock: 9 at (1, 1)
+Min Stock: 1 at (1, 2)
+Total Items in Racks: 45
+
+===== SMART WAREHOUSE MENU =====
+1. Add Product
+2. Search Product (By ID)
+3. Update Quantity
+4. Generate Rack Report (2D Array)
+5. Calculate Stock Value
+6. Display All Products
+7. Exit
+Enter choice: 5
+ID: 555  Value: 1000
+ID: 333  Value: 900
+
+Highest Value Product: ID 555 (Value 1000)
+Lowest Value Product: ID 333 (Value 900)
+Total Warehouse Value: 1900
+
+===== SMART WAREHOUSE MENU =====
+1. Add Product
+2. Search Product (By ID)
+3. Update Quantity
+4. Generate Rack Report (2D Array)
+5. Calculate Stock Value
+6. Display All Products
+7. Exit
+Enter choice: 6
+
+ID      Quantity        Price   StockValue
+555     50              20      1000
+333     30              30      900
+
+===== SMART WAREHOUSE MENU =====
+1. Add Product
+2. Search Product (By ID)
+3. Update Quantity
+4. Generate Rack Report (2D Array)
+5. Calculate Stock Value
+6. Display All Products
+7. Exit
+Enter choice: 7
