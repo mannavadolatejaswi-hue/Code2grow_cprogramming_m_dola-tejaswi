@@ -1,1 +1,51 @@
+Enter number of vehicles: 5
 
+--- Enter Vehicle Details ---
+
+Vehicle 1
+Enter Vehicle ID: 5555
+Enter Speed (km/hr): 65
+Enter Lane (1, 2, 3 or 4): 3
+
+Vehicle 2
+Enter Vehicle ID: 3333
+Enter Speed (km/hr): 55
+Enter Lane (1, 2, 3 or 4): 2
+
+Vehicle 3
+Enter Vehicle ID: 1010
+Enter Speed (km/hr): 43
+Enter Lane (1, 2, 3 or 4): 1
+
+Vehicle 4
+Enter Vehicle ID: 7777
+Enter Speed (km/hr): 75
+Enter Lane (1, 2, 3 or 4): 4
+
+Vehicle 5
+Enter Vehicle ID: 9999
+Enter Speed (km/hr): 82
+Enter Lane (1, 2, 3 or 4): 4
+
+=====SMART CITY TRAFFIC REPORT=====
+
+1. SPEED VIOLATIONS ( >80 km/hr ):
+Vehicle ID: 9999
+
+2. LANE VIOLATIONS (Invalid Lane):
+No lane violations.
+
+3. LANE-WISE VEHICLE COUNT:
+Lane 1 : 1 vehicles
+Lane 2 : 1 vehicles
+Lane 3 : 1 vehicles
+Lane 4 : 2 vehicles
+
+4. SPEED ANALYSIS:
+Highest Speed : 82 km/hr (Vehicle ID: 9999)
+Lowest Speed  : 43 km/hr (Vehicle ID: 1010)
+
+5. TRAFFIC DENSITY:
+Lane 4 has the highest traffic with 2 vehicles.
+
+=========== END OF REPORT ===========
