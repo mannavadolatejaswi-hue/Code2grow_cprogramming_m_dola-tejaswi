@@ -1,1 +1,50 @@
+1. Add Student
+2. Add Event
+3. Register Student to Event
+4. View Registrations
+5. Exit
+Enter choice: 1
+Enter student ID: 333
+Enter student name: srija
 
+1. Add Student
+2. Add Event
+3. Register Student to Event
+4. View Registrations
+5. Exit
+Enter choice: 2
+Enter event ID: 101
+Enter event name: dance
+
+1. Add Student
+2. Add Event
+3. Register Student to Event
+4. View Registrations
+5. Exit
+Enter choice: 3
+Enter student ID: 333
+Enter event ID: 101
+Registered.
+
+1. Add Student
+2. Add Event
+3. Register Student to Event
+4. View Registrations
+5. Exit
+Enter choice: 4
+Student 333 -> Event 101
+
+1. Add Student
+2. Add Event
+3. Register Student to Event
+4. View Registrations
+5. Exit
+Enter choice: 0
+Invalid choice.
+
+1. Add Student
+2. Add Event
+3. Register Student to Event
+4. View Registrations
+5. Exit
+Enter choice: 5
